@@ -1,0 +1,15 @@
+D:\CSharp_proj\PartB\PartB\bin\Debug\net6.0\PartB.exe
+D:\CSharp_proj\PartB\PartB\bin\Debug\net6.0\PartB.deps.json
+D:\CSharp_proj\PartB\PartB\bin\Debug\net6.0\PartB.runtimeconfig.json
+D:\CSharp_proj\PartB\PartB\bin\Debug\net6.0\PartB.dll
+D:\CSharp_proj\PartB\PartB\bin\Debug\net6.0\PartB.pdb
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.csproj.AssemblyReference.cache
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.AssemblyInfoInputs.cache
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.AssemblyInfo.cs
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.csproj.CoreCompileInputs.cache
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.dll
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\refint\PartB.dll
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.pdb
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\PartB.genruntimeconfig.cache
+D:\CSharp_proj\PartB\PartB\obj\Debug\net6.0\ref\PartB.dll
